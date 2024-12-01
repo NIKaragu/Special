@@ -30,7 +30,7 @@ function App() {
             isOpen ? "-translate-y-24 opacity-100" : "opacity-0"
           }`}
         >
-          <p className='text-xl text-center text-wrap text-fuchsia-600'>Повір вже блять в себе. <p>Just do it, yopta.</p> Ти нічого не втрачаєш</p>
+          <p className='text-xl text-center text-wrap text-fuchsia-600'>Повір вже блять в себе. <p>Just do it, yopta.</p> Ти нічого не втрачаєш, просто спробуй❤️</p>
         </div>
       </div>
     </div>
